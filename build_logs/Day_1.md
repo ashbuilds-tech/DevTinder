@@ -1,4 +1,4 @@
-# Chapter 1
+# Day 1
 
 ## What did I do?
 
